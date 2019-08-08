@@ -7,4 +7,4 @@ description: String validation and sanitization for Dart.
 homepage: https://github.com/naufalfachrian/dart-asynchronous-validator
 documentation: https://github.com/naufalfachrian/dart-asynchronous-validator
 environment:
-  sdk: '>=1.8.0 <2.3.2'
+  sdk: '>=1.8.0 <=2.4.0'
